@@ -1,0 +1,24 @@
+[33mcommit 642fbbb0e16829d0bf68827debe794e9dd13708e[m[33m ([m[1;36mHEAD -> [m[1;32mmindcolab[m[33m, [m[1;31morigin/mindcolab[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 113fedf 0994946
+Author: Cristianjs88 <cristianjorgescollo@gmail.com>
+Date:   Wed May 8 16:39:25 2024 -0300
+
+    Merge branch 'main' of https://github.com/MindColab/ironfire
+
+[33mcommit 113fedf5665aee4c7778a369286b742c35d89aec[m
+Author: Cristianjs88 <cristianjorgescollo@gmail.com>
+Date:   Wed May 8 16:39:09 2024 -0300
+
+    se agrega Main y funciones de consulta por api a backend desde el login
+
+[33mcommit 0994946cc359294ce7726bbe104875924aed2a3a[m
+Author: Marcio Flores <marcioflores.ar@gmail.com>
+Date:   Tue May 7 08:45:03 2024 -0300
+
+    Agrega roles de usuario
+
+[33mcommit 98c683fbd1a85e765c28f69fc1d72cac5e424411[m
+Author: Marcio Flores <marcioflores.ar@gmail.com>
+Date:   Mon May 6 09:32:41 2024 -0300
+
+    first commit
